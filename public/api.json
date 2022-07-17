@@ -1,0 +1,112 @@
+[
+    {
+        "price": 480,
+        "id": 1,
+        "title": "Andes Negra",
+        "url": "./img/andes_negra.png",
+        "taxes": 10
+    },  
+    {
+        "price": 480,
+        "id": 2,
+        "title": "Andes Roja",
+        "url": "./img/andes_roja.png",
+        "taxes": 10
+    },
+    {
+        "price": 480,
+        "id": 3,
+        "title": "Andes Rubia",
+        "url": "./img/andes_rubia.png"
+    },
+    {
+        "price": 310,
+        "id": 4,
+        "title": "Brahma",
+        "url": "./img/brahma.png"
+    },
+    {
+        "price": 370,
+        "id": 5,
+        "title": "Budweiser",
+        "url": "./img/budweiser.png"
+    },
+    {
+        "price": 420,
+        "id": 6,
+        "title": "Corona Extra",
+        "url": "./img/corona.png"
+    },
+    {
+        "price": 450,
+        "id": 7,
+        "title": "Hoegaarden",
+        "url": "./img/hoegaarden.png"
+    },
+    {
+        "price": 200,
+        "id": 8,
+        "title": "Iguana",
+        "url": "./img/iguana.png"
+    },
+    {
+        "price": 390,
+        "id": 9,
+        "title": "Norte",
+        "url": "./img/norte.png"
+    },
+    {
+        "price": 320,
+        "id": 10,
+        "title": "Quilmes original",
+        "url": "./img/Quilmes.png"
+    },
+    {
+        "price": 350,
+        "id": 11,
+        "title": "Quilmes 1890",
+        "url": "./img/quilmes_1890.png"
+    },
+    {
+        "price": 320,
+        "id": 12,
+        "title": "Quilmes Bajo Cero",
+        "url": "./img/quilmes_bajocero.png"
+    },
+    {
+        "price": 320,
+        "id": 13,
+        "title": "Quilmes Bock",
+        "url": "./img/quilmes_bock.png"
+    },
+    {
+        "price": 320,
+        "id": 14,
+        "title": "Quilmes Stout",
+        "url": "./img/quilmes_stout.png"
+    },
+    {
+        "price": 350,
+        "id": 15,
+        "title": "Stella Artois",
+        "url": "./img/stella_artois.png"
+    },
+    {
+        "price": 350,
+        "id": 16,
+        "title": "Stella Artois Noire",
+        "url": "./img/stella_artois_noire.png"
+    },
+    {
+        "price": 400,
+        "id": 17,
+        "title": "Warsteiner",
+        "url": "./img/warsteiner.png"
+    },
+    {
+        "price": 410,
+        "id": 18,
+        "title": "Franziskaner",
+        "url": "./img/franziskaner.png"
+    }
+]

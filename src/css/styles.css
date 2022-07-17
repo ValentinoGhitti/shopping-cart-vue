@@ -1,0 +1,13 @@
+.table {
+    vertical-align: middle;
+}
+
+.btn-amount {
+    font-weight: bold;
+    font-size: 1.5em;
+    cursor: pointer;
+}
+
+h2 {
+    font-family: 'Alfa Slab One', cursive;
+}
