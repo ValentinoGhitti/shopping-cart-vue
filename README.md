@@ -1,6 +1,6 @@
 # Landing Page de cervecería + Shopping Cart
 
-Este repo tiene una landing page de una cervecería "**Convide Rutero**", diseño consultado por una profesional en product designer. Este proyecto toca en especifico el lado visual e interactivo del Front. Contiene un sliders con distintas cervezas, con un botón para seleccionar y agregar al Carrito de compras. Está hecha en Vue 3 (Composition API), Vuex, JavaScript, Bootstrap y Sass.
+Este repo tiene un landing page de una cervecería "**Convide Rutero**", diseño consultado y corregido por una profesional en product designer. Este proyecto toca en especifico el lado visual e interactivo del Front. Contiene un sliders con distintas cervezas, con un botón para seleccionar y agregar al Carrito de compras. Está hecha en Vue 3 (Composition API), Vuex, JavaScript, Bootstrap y Sass.
 
 ## Contendido
 
